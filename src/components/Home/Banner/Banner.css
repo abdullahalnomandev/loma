@@ -1,0 +1,116 @@
+.col-md-6.header-right {
+  padding: 12% 3%;
+}
+
+.col-md-6.header-right h1 {
+  font-family: fantasy;
+  color: black;
+  font-weight: bold;
+}
+
+.col-md-6.header-right {
+  padding: 12% 3%;
+}
+
+.col-md-6.header-right h1 {
+  font-family: fantasy;
+  color: black;
+  font-weight: bold;
+}
+
+.col-md-6.header-right p span {
+  border: 1px solid gray;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 25px;
+}
+
+.col-md-6.header-right p {
+  border: 1px solid #ddd;
+  padding: 9px; /* display: inline; */
+  border-radius: 10px; /* width: 39%; */ /* display: inline; */
+  display: flex; /* display: inline; */
+}
+.col-md-6.header-right {
+  padding: 12% 3%;
+}
+
+.col-md-6.header-right h1 {
+  font-family: fantasy;
+  color: black;
+  font-weight: bold;
+}
+
+.col-md-6.header-right {
+  padding: 12% 3%;
+}
+
+.col-md-6.header-right h1 {
+  font-family: fantasy;
+  color: black;
+  font-weight: bold;
+}
+
+.col-md-6.header-right p span {
+  border: 1px solid gray;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.col-md-6.header-right p {
+  border: 1px solid #ddd;
+  padding: 9px;
+  border-radius: 10px;
+}
+
+.item {
+  display: flex;
+  flex-wrap: wrap;
+  
+
+}
+
+.item p {
+  margin: 0.5%;
+  background: #fcfcfc;
+}
+.form input {
+  padding: 1% 3% !important;
+  border-radius: 5px !important;
+  border: 2px solid black !important;
+
+}
+.form button {
+  margin-left: -7%;
+  border: none;
+  background: no-repeat;
+  font-size: 20px;
+  position: absolute;
+  top: 20%;
+}
+
+.form{
+    position: relative;
+    border-bottom: 7px solid;
+    border-image: repeating-linear-gradient(20deg, #1947E5, #FF89BB, #FFBD12,#00C6AE,#54A086,#F15B3B ) 60;
+    
+    
+}
+
+@media only screen and (min-width: 300px) {
+  .form input {
+    padding: 1% 3% !important;
+    border-radius: 5px !important;
+    border: 2px solid black !important;
+    width: 100%;
+    height: 53px;
+
+  }
+  /* .form {
+    border-bottom: 7px solid;
+    border-image: linear-gradient(180deg, rgb(71, 42, 230), rgb(72, 203, 221));
+    border-image-slice: 1;
+    width: 92%;
+    
+} */
+}

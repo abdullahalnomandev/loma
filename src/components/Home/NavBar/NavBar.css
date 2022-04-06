@@ -1,0 +1,22 @@
+button.login-button {
+  color: white;
+  border: none;
+  background: no-repeat;
+  border: 1px solid white;
+  padding: 3px 16px;
+  height: 36px;
+  width: 123px;
+  border-radius: 10px;
+}
+button.signUp-button {
+    color: black;
+    border: none;
+    background: white;
+    border: 1px solid white;
+    padding: 3px 16px;
+    height: 36px;
+    width: 123px;
+    border-radius: 10px;
+    font-weight: 600;
+  }
+  
